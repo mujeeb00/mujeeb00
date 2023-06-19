@@ -10,12 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Nodejs<br>🎯 Goals: 1k contributions<br>🎲 Fun fact: I like to travel.	<br><br> Read more at: https://www.scienceofpeople.com/fun-facts-about-me/</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Nodejs<br>🎯 Goals: 1k contributions<br>🎲 Fun fact: I like to travel.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mujeeb00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -45,6 +45,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/mujeeb00/mujeeb00/output/snake.svg" alt="Snake animation" />
 
