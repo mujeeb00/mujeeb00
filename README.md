@@ -9,7 +9,7 @@
 - **Spring Framework** 🚀
 
 ## Find me on:
-[![Email](https://skillicons.dev/icons?perline=12&i=gmail)](mailto:mujeebfx160@gmail.com) [![LinkedIn](https://skillicons.dev/icons?perline=12&i=linkedin)](https://linkedin.com/in/mujeeb00/)
+[![Email](https://skillicons.dev/icons?perline=12&i=gmail)](mailto:mujeebfx160@gmail.com) [![LinkedIn](https://skillicons.dev/icons?perline=12&i=linkedin)](https://www.linkedin.com/in/mujeebo/)
 
 
 
