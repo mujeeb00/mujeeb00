@@ -4,9 +4,6 @@
 - 🔰 I'm currently participating in Hackathons & coding competitions.
 - ⚡ Fun fact: I've written code in three different time zones within 24 hours. 🌎⏰
 
-## Tech I'm looking forward to learning in 2024:
-- **Quarkus** 🚀
-- **Spring Framework** 🚀
 
 ## Find me on:
 [![Email](https://skillicons.dev/icons?perline=12&i=gmail)](mailto:mujeebfx160@gmail.com) [![LinkedIn](https://skillicons.dev/icons?perline=12&i=linkedin)](https://www.linkedin.com/in/mujeebo/)
